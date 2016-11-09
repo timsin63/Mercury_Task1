@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Task_1</string>
+    <string name="dialog_add">Adding new item</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Light Blue</item>
+        <item>Blue</item>
+        <item>Purple</item>
+    </string-array>
+    <string name="dialog_enter">Enter the name:</string>
+    <string name="dialog_choose">Choose the color:</string>
+    <string name="red_str">Red</string>
+    <string name="orange">Orange</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="light_blue">Light blue</string>
+    <string name="blue">Blue</string>
+    <string name="purple">Purple</string>
+    <string name="snackbar_enter_msg">Please, enter the name</string>
+    <string name="name_exist">This name is already exist</string>
+    <string name="item">Item\u0020</string>
+    <string name="clicked">You clicked the element#\u0020</string>
+    <string name="deleting">Deleting</string>
+    <string name="sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>

@@ -3,7 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="red">#A20303</color>
+    <color name="orange">#ED7804</color>
     <color name="yellow">#FAE900</color>
+    <color name="green">#03A252</color>
+    <color name="light_blue">#719ECA</color>
+    <color name="blue">#0353A2</color>
+    <color name="purple">#5203A2</color>
     <color name="dark_item">#3B3F42</color>
     <color name="light_item_text">#CCEEF3</color>
+    <color name="white">#FFF</color>
 </resources>

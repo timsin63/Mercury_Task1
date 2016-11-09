@@ -3,7 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:background="@drawable/selector_background">
 
     <TextView
         android:id="@+id/itemTextView"
@@ -12,13 +13,13 @@
         android:layout_weight="0.58"
         android:paddingLeft="@dimen/navigation_icon_padding"
         android:text="TextView"
-        android:textColor="@android:color/secondary_text_light"
+        android:textColor="@color/item_text_color"
         android:textSize="36sp" />
 
     <ImageView
         android:id="@+id/itemImageView"
-        android:layout_width="55dp"
-        android:layout_height="48dp"
+        android:layout_width="@dimen/item_image_size"
+        android:layout_height="@dimen/item_image_size"
         android:src="@drawable/empty_figure" />
 
 
